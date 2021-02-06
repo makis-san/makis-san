@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Souza</h1>
-- 🔭 I’m currently working on **Shopping App in React Native**
+- 🔭 I’m currently working on Shopping App in React Native
 
 - ✨ I’m planning **to start a Open Source project**
 
