@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Souza</h1>
-- 🔭 I’m currently working on **a Shopping App in React Native**
+- 🔭 I’m currently working on **Shopping App in React Native**
 
-- ✨ I’m currently planning **to start a Open Source project**
+- ✨ I’m planning **to start a Open Source project**
 
 - 👨‍💻 All of my projects are available at [www.vincentmedia.com.br](www.vincentmedia.com.br)
 
