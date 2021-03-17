@@ -9,6 +9,11 @@
 
 - 📫 How to reach me **contato@vincentmedia.com.br**
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/makis-san" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="makis-san" height="30" width="40" /></a>
