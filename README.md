@@ -10,6 +10,79 @@
 - 📫 How to reach me **contato@vincentmedia.com.br**
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 172 Contributions in the Year 2021
+ > 
+> 📦 1.3 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 25 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+🌆 Daytime    193 commits    ████████░░░░░░░░░░░░░░░░░   33.16% 
+🌃 Evening    228 commits    █████████░░░░░░░░░░░░░░░░   39.18% 
+🌙 Night      90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.46%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
+Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.15% 
+Wednesday    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
+Thursday     100 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.18% 
+Friday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
+Saturday     67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
+Sunday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
+HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/makis-san/makis-san/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
