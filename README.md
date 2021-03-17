@@ -10,13 +10,13 @@
 - 📫 How to reach me **contato@vincentmedia.com.br**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 172 Contributions in the Year 2021
  > 
-> 📦 1.3 MB Used in Github's Storage 
+> 📦 1.4 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
