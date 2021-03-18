@@ -9,10 +9,10 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: WakaTimeBox
     runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
+    steps: 
+      - uses: Hephaest/WakaTimeBox@v4.0.9
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
