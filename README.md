@@ -14,13 +14,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 179 Contributions in the Year 2021
+> 🏆 182 Contributions in the Year 2021
  > 
 > 📦 1.4 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 25 Private Repositories  
  > 
@@ -53,16 +53,18 @@ Sunday       78 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 37 mins        ████████████████████████░   96.35% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 40 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+visual-pos               1 hr 40 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 40 mins        █████████████████████████   100.0%
 
 ```
 
