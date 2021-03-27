@@ -20,6 +20,10 @@ JSON             18 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <!-- TODO-IST:START -->
+🏆  600 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 25 tasks so far           
+⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
