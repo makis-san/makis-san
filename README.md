@@ -9,6 +9,14 @@
 
 - 📫 How to reach me **contato@vincentmedia.com.br**
 
+
+<!-- TODO-IST:START -->
+🏆  600 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 25 tasks so far           
+⏳  Longest streak is 1 days
+<!-- TODO-IST:END -->
+
 <!--START_SECTION:waka-->
 ```text
 TypeScript   16 hrs 38 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀   77.93 % 
@@ -19,12 +27,7 @@ CSS          12 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 <!--END_SECTION:waka-->
 
-<!-- TODO-IST:START -->
-🏆  600 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 25 tasks so far           
-⏳  Longest streak is 1 days
-<!-- TODO-IST:END -->
+
 
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
