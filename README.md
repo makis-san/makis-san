@@ -19,8 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Bash   35 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀   89.72 % 
-JSON   4 mins          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
