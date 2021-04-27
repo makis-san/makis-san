@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.vincentmedia.com.br](www.vincentmedia.com.br)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Adonis JS**
 
 - 📫 How to reach me **contato@vincentmedia.com.br**
 
