@@ -15,7 +15,7 @@
 
 - 📰 Full CV on [Linkedin](https://www.linkedin.com/in/santiago-souza-49778b1b2/)
 
-- 📚 Student no Instituto Federal de Ciências e Tecnologias de Pernambuco
+- 📚 Student at Instituto Federal de Ciências e Tecnologias de Pernambuco
 
 - ⚙️ Working at GDS Tec as Mid-level Developer
 
