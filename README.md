@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Open Source repos.**
 
-- 👨‍💻 All of my projects are available at [https://vincentmedia.com.br](https://vincentmedia.com.br)
-
 - 💬 Ask me about **ReactJS, ReactNative, Typescript, NextJS.**
 
 - 📫 How to reach me **contato@vincentmedia.com.br**
