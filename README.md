@@ -25,8 +25,6 @@ On my free time I produce some content for youtube about tech and coding stuff w
 
   <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=makis-san&show_icons=true&theme=tokyonight"/>
-    <br>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makis-san&layout=compact&theme=tokyonight"/>
   </div>
 
@@ -37,4 +35,3 @@ On my free time I produce some content for youtube about tech and coding stuff w
 * My first language stack was C# and PHP. Now it's been a while since I touched a C# code and PHP is kinda rare, just in some specifc cases I like to use it.
 * I also had worked with Motion Design, 3D modelling and animation and used to have a game channel in the past that didn't gone so well :P
 * Founded a marketing agency with some friends :)
-* Thrust me I'm 18 years old
