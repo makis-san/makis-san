@@ -21,13 +21,14 @@ On my free time I produce some content for youtube about tech and coding stuff w
 * **Name**: Santiago Souza
 * **Age**: 18
 * **Living in**: Recife - PE, Brazil
-* **Stack**: React, Next, Node, Express.
+* **Stack**: Next/React, Typescript, SQL, Google Cloud
+
+## Stats
 
   <div style="display: flex; flex-direction: row;">
     <img src="https://github-readme-stats.vercel.app/api?username=makis-san&show_icons=true&theme=tokyonight"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makis-san&layout=compact&theme=tokyonight"/>
   </div>
-
 
 ## Curiosities about me
 
