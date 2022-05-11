@@ -9,7 +9,7 @@ On my free time I produce some content for youtube about tech and coding stuff w
 * **Living in**: Recife - PE, Brazil
 * **Stack**: Next/React, React Native, Typescript, Angular, SQL, MongoDB, Google Cloud (and a strange passion with WebSocket)
 
-## Find-me 📍
+## Useful Links 📍
 
 <div>
     <a target='_blank' href="https://instagram.com/euosantiago">
@@ -20,6 +20,9 @@ On my free time I produce some content for youtube about tech and coding stuff w
     </a>
     <a target='_blank' href="https://www.linkedin.com/in/santiago-souza-49778b1b2/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+  <a target='_blank' href="https://linktr.ee/euosantiago_">
+        <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white">
     </a>
 </div>
 
