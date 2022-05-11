@@ -1,3 +1,16 @@
+# Hi! Nice to meet you 😄
+
+My name is Santiago Souza, actually living in Brazil and working for Eduplaytion as Front-end Developer
+
+On my free time I produce some content for youtube about tech and coding stuff work.
+
+* **Name**: Santiago Souza
+* **Age**: 18
+* **Living in**: Recife - PE, Brazil
+* **Stack**: Next/React, React Native, Typescript, Angular, SQL, MongoDB, Google Cloud (and a strange passion with WebSocket)
+
+## Find-me 📍
+
 <div>
     <a target='_blank' href="https://instagram.com/euosantiago">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -9,17 +22,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
-
-# Hi! Nice to meet you 😄
-
-My name is Santiago Souza, actually living in Brazil and working for Eduplaytion as Front-end Developer
-
-On my free time I produce some content for youtube about tech and coding stuff work.
-
-* **Name**: Santiago Souza
-* **Age**: 18
-* **Living in**: Recife - PE, Brazil
-* **Stack**: Next/React, React Native, Typescript, Angular, SQL, MongoDB, Google Cloud (and a strange passion with WebSocket)
 
 ## More About Me 🦆
 
