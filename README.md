@@ -1,6 +1,6 @@
 # Hi! Nice to meet you 😄
 
-My name is Santiago Souza, actually living in Brazil and working for Eduplaytion as Front-end Developer
+My name is Santiago Souza, currently living in Brazil and working for Eduplaytion as Front-end Developer
 
 On my free time I produce some content for youtube about tech and coding stuff work.
 
