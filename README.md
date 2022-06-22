@@ -35,11 +35,14 @@ On my free time I produce some content for youtube about tech and coding stuff w
 * I love ducks 🦆
 * I love cats 🐈
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rbdq2v4xivbcokhp2tcej8wvr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## <h3 align="left">GitHub Stats</h3>
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=makis-san&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+
+  <img style="flex;1" src="https://github-readme-stats.vercel.app/api?username=makis-san&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makis-san&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+    </div>
