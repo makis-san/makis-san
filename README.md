@@ -1,4 +1,4 @@
-# Hi! Nice to meet you 😄
+# Hi! Nice to meet you 😄 ![](https://komarev.com/ghpvc/?username=makis-san&style=for-the-badge)
 
 My name is Santiago Souza, currently living in Brazil and working for Eduplaytion as Front-end Developer
 
