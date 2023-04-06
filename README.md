@@ -38,11 +38,12 @@ On my free time I produce some content for youtube about tech and coding stuff.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rbdq2v4xivbcokhp2tcej8wvr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## <h3 align="left">GitHub Stats</h3>
-
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-
-  <img style="flex;1" src="https://github-readme-stats.vercel.app/api?username=makis-san&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-
+<div align="left">
   
-<img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makis-san&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
-    </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makis-san&theme=chartreuse-dark&title_color=fff&text_color=fff&layout=compact&langs_count=7&hide_border=true" alt="Most Languages" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makis-san&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true&count_private=true" alt="Stats" />
+  
+  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=makis-san&theme=chartreuse-dark&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=36BCF7&currStreakNum=F7F7F7&sideNums=F7F7F7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=FFFFFF)](https://git.io/streak-stats" alt="Current Streak" />
+  
+</div>
