@@ -44,6 +44,5 @@ On my free time I produce some content for youtube about tech and coding stuff.
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makis-san&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true&count_private=true" alt="Stats" />
   
-  <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=makis-san&theme=chartreuse-dark&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=36BCF7&currStreakNum=F7F7F7&sideNums=F7F7F7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=FFFFFF)](https://git.io/streak-stats" alt="Current Streak" />
-  
+
 </div>
