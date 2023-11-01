@@ -7,7 +7,7 @@ On my free time I produce some content for youtube about tech and coding stuff.
 * **Name**: Santiago Souza
 * **Age**: 20
 * **Living in**: Recife - PE, Brazil
-* **Stack**: Next/React, React Native, Typescript, Angular, SQL, MongoDB, Google Cloud, Express, NodeJs, Kotlin, Java, C#, Rust (and a strange passion with WebSocket)
+* **Stack**: Next/React, React Native, Typescript, Angular, SQL, MongoDB, GraphQL, Apollo, Google Cloud, Express, NodeJs, Kotlin, Java, C#, Rust (and a strange passion with WebSocket)
 
 ## Useful Links 📍
 
