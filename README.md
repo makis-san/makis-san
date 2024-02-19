@@ -1,6 +1,6 @@
 # Hi! Nice to meet you 😄 ![](https://komarev.com/ghpvc/?username=makis-san&style=for-the-badge)
 
-My name is Santiago Souza, currently living in Brazil and working for [Solvd](https://www.solvd.com/) as Front-end Developer
+My name is Santiago Souza, currently living in Brazil and working for [Solvd](https://www.solvd.com/) as Senior Software Engineer
 
 On my free time I produce some content for youtube about tech and coding stuff.
 
