@@ -35,7 +35,7 @@ On my free time I produce some content for youtube about tech and coding stuff.
 * I love ducks 🦆
 * I love cats 🐈
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rbdq2v4xivbcokhp2tcej8wvr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rbdq2v4xivbcokhp2tcej8wvr&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## <h3 align="left">GitHub Stats</h3>
 <div align="left">
