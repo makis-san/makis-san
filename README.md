@@ -5,7 +5,7 @@ My name is Santiago Souza, currently living in Brazil and working for [Solvd](ht
 On my free time I produce some content for youtube about tech and coding stuff.
 
 * **Name**: Santiago Souza
-* **Age**: 20
+* **Age**: 21
 * **Living in**: Recife - PE, Brazil
 * **Stack**: Next/React, React Native, Typescript, Angular, SQL, MongoDB, GraphQL, Apollo, Google Cloud, Express, NodeJs, Kotlin, Java, C#, Rust (and a strange passion with WebSocket)
 
