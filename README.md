@@ -36,13 +36,3 @@ On my free time I produce some content for youtube about tech and coding stuff.
 * I love cats 🐈
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rbdq2v4xivbcokhp2tcej8wvr&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-## <h3 align="left">GitHub Stats</h3>
-<div align="left">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makis-san&theme=chartreuse-dark&title_color=fff&text_color=fff&layout=compact&langs_count=7&hide_border=true" alt="Most Languages" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makis-san&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true&count_private=true" alt="Stats" />
-  
-
-</div>
