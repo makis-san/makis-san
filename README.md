@@ -1,6 +1,6 @@
 # Hi! Nice to meet you 😄 ![](https://komarev.com/ghpvc/?username=makis-san&style=for-the-badge)
 
-My name is Santiago Souza, currently living in Brazil and working for [Solvd](https://www.solvd.com/) as Senior Software Engineer
+My name is Santiago Souza, currently living in Brazil and working remotely for companies across the globe.
 
 On my free time I produce some content for youtube about tech and coding stuff.
 
@@ -29,7 +29,7 @@ On my free time I produce some content for youtube about tech and coding stuff.
 ## More About Me 🦆
 
 * I started coding when I was 13, influenced by my father, games and my brother.
-* My first language stack was C# and PHP. Now it's been a while since I touched a C# code and PHP is kinda rare, just in some specifc cases I like to use it.
+* My first language stack was C# and PHP. Now it's been a while since I touched a C# code and PHP, now my main stack is built around the Typescript ecosystem.
 * I also had worked with Motion Design, 3D modelling and animation and used to have a game channel in the past that didn't gone so well :P
 * Founded a marketing agency with some friends :)
 * I love ducks 🦆
